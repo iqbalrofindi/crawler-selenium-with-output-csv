@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "chromedriver": "^105.0.0",
+    "csv-writer": "^1.6.0",
+    "dotenv": "^16.0.2",
+    "moment": "^2.29.4",
+    "selenium-webdriver": "^4.4.0"
+  }
+}
